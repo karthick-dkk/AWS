@@ -35,6 +35,7 @@ Policy and Role Implementation:
 
 Design and implement IAM policies, roles, and permissions.
 Implement MFA for all user accounts.
+
 **Integration with AWS Services:**
 
 Integrate IAM with Amazon S3, EC2, and RDS to enforce security controls.
@@ -47,6 +48,7 @@ IAM Auditing and Monitoring Setup:
 
 Implement IAM policies for auditing and monitoring using AWS CloudTrail and CloudWatch.
 Establish regular security reviews and audits of IAM configurations.
+
 **Documentation and Knowledge Transfer:**
 
 Document IAM policies, configurations, and best practices.
