@@ -12,6 +12,6 @@ aws
 if [ $? -eq 0 ]; then echo -e "\nInsatllation ok"; else echo -e "\nHey i thing AWS not installed properly, Please try again "; fi
 #################
 # Install jq
-#sudo yum install jq -y   #Redhat,Centos,Rocky 
-#sudo apt install jq -y   # ubuntu
+sudo yum install jq -y   #Redhat,Centos,Rocky 
+sudo apt install jq -y   # ubuntu
 ################
