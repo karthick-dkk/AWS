@@ -1,5 +1,5 @@
 #########################
-# Install AWS CLI
+# Install AWS CLI linux
 ########################
 
 echo "Downlaod AWS CLIv2"
