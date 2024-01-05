@@ -1,0 +1,2 @@
+# Requirements for Python
+pip install boto3
