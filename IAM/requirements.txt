@@ -1,7 +1,0 @@
-**# Requirements for AWS SDK/Module**
-
-Python3 
-
-```
-pip install boto3
-```
