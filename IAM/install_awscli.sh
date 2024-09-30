@@ -1,5 +1,7 @@
 #########################
 # Install AWS CLI linux
+# Insatll using below command
+# cat https://raw.githubusercontent.com/karthick-dkk/AWS/refs/heads/main/IAM/install_awscli.sh | bash
 ########################
 sudo apt install unzip -y
 echo "Download AWS CLIv2"
